@@ -1,65 +1,25 @@
 # portfolio
 
-Portfolio gathering my data science projects, scientific publications, conference presentations, and quantitative research experience. This repository highlights work related to data analysis, statistical modeling, reproducible workflows developed during my transition from neuroscience research to applied data science.
+Portfolio gathering my data science projects, scientific publications, and quantitative research experience. This repository highlights work related to data analysis, statistical modeling, reproducible workflows developed during my transition from neuroscience research to applied data science.
 
-# Publications
+## Projects
 
-## 2025
+### Behavioral Data Analysis
+Statistical analysis and reproducible workflows for longitudinal behavioral datasets in R and SQL.  
 
-### The interpeduncular nucleus blunts the rewarding effect of nicotine
-Joachim Jehl*, Maria Ciscato*, Eléonore Vicq*, Nicolas Guyon*, et al.  
-*Neuron* (2025)  
-DOI: https://doi.org/10.1016/j.neuron.2025.03.035  
-\* Co-first authors ; # Co-last authors
+# Project 1 : 
+[Cross-Systems Behavioral Analytics](https://github.com/mariaciscato/cross-systems-behavioral-analytics)
 
-### Covalent anchoring of tethered ligands to chemogenetic handles for targeted in vivo neuropharmacology
-Maria Ciscato, Kian Stenbolt, Alexandre Mourot#, Nicolas Guyon#  
-*STAR Protocols* (2025)  
-DOI: https://doi.org/10.1016/j.xpro.2025.104186
+# Project 2 :
+[behavior-choice-nicotine-analysis](https://github.com/mariaciscato/behavior-choice-nicotine-analysis)
 
-### Nicotinic receptors in the medial habenula to interpeduncular nucleus pathway: modulators of reward, aversion and emotion
-Maria Ciscato*, Mathilde Chouvaeff*, Alexandre Mourot*  
-*European Journal of Neuroscience*  
-DOI: https://doi.org/10.1111/ejn.70352  
-\* Equal contribution
+## Publications
+Complete publication list (publications.md)
 
----
+## Scientific Communication
 
-## 2023
-
-### Prolonged nicotine exposure reduces aversion to the drug in mice by altering nicotinic transmission in the interpeduncular nucleus
-Sarah Mondoloni, Claire Nguyen, Eléonore Vicq, Maria Ciscato, et al.  
-*eLife* (2023)  
-DOI: https://doi.org/10.7554/eLife.80767
-
-### Communal nesting differentially attenuates the impact of pre-weaning social isolation on behavior in male and female rats during adolescence and adulthood
-Jessica Bratzu, Maria Ciscato, Augusta Pisanu, et al.  
-*Frontiers in Behavioral Neuroscience* (2023)  
-DOI: https://doi.org/10.3389/fnbeh.2023.1257417
-
-# Scientific Presentations
-
-## Oral Presentations
-
-### Addiction 2022 International Meeting — Villasimius, Italy
-"The interpeduncular nucleus blunts the rewarding effect of low-dose nicotine"  
-September 2022
-
----
-
-## Poster Presentations
-
-### Society for Neuroscience Annual Meeting — Washington D.C.
-"The interpeduncular nucleus blunts the rewarding effect of low-dose nicotine"  
-November 2023
-
-### Inserm Workshop in Photopharmacology — Bordeaux, France
-"The interpeduncular nucleus blunts the rewarding effect of low-dose nicotine"  
-November 2022
-
-# Awards & Grants
-
-### Travel Grant — Addiction 2022 International Meeting
-Funding awarded to participate in the international Addiction 2022 conference  
-September 2022
-
+- Oral presentation — Addiction 2022 International Meeting (Villasimius, Italy)
+- Poster presentation — Society for Neuroscience Annual Meeting 2023 (Washington D.C., USA)
+- Poster presentation — Inserm Workshop in Photopharmacology 2022 (Bordeaux, France)
+- Poster presentation — Mediterranean Neuroscience Society Conference 2025 (Crete, Greece)
+- Travel grant recipient — Addiction 2022 International Meeting
